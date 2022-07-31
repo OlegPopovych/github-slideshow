@@ -2,7 +2,7 @@
 layout: slide
 title: "Welcome to our slide deck!"
 ---
-
+#<h3>Greate job!</h3>
 Use the right arrow to begin!
 
 ---
